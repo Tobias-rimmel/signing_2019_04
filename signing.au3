@@ -16,7 +16,7 @@ signing()
 
 Func signing()
 
-    sleep(5000)
+    sleep(6000)
     Send("{ALT DOWN}")
     Send("{TAB}")
     Send("{ALT UP}")
